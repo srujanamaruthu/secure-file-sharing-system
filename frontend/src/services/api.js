@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL || 'https://secure-file-sharing-system-2-9yw5.onrender.com';
+const API_URL = import.meta.env.VITE_API_URL || 'https://secure-file-sharing-system-2-9yw5.onrender.com/api';
 
 
 /**
